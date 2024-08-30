@@ -26,7 +26,7 @@ class OrderLineObserver
     }
 
     /**
-     * Handle the OrderLine "updated" event.
+     * Handle the OrderLine "updating" event.
      *
      * @return void
      */
